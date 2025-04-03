@@ -3,7 +3,10 @@
 ## Project Overview
 An advanced fire detection system completed in 2021, designed for both indoor and outdoor environments. The system utilized a specialized camera with an integrated edge device for real-time inference, identifying fire hazards and providing immediate visual alerts to improve safety and response times in various settings.
 
-![Fire Detection System](https://placeholder-image.com/fire-detection-system)
+<figure>
+  <img src="path/to/your/image.jpg" alt="Description of image">
+  <figcaption>Figure 1: Integrated fire detection camera with built-in edge processing and LED alert system</figcaption>
+</figure>
 
 ## Role
 AI Research Engineer in a 3-person cross-functional team (hardware, software, and AI engineers)
@@ -42,6 +45,11 @@ AI Research Engineer in a 3-person cross-functional team (hardware, software, an
 - Ensured seamless operation between hardware and software components
 
 ## System Architecture
+
+<figure>
+  <img src="media/workflow_mermaid_chart.png" alt="Description of image">
+  <figcaption>Figure 2: System architecture and detection workflow diagram showing data flow from image capture to alert</figcaption>
+</figure>
 
 ### Custom Camera and Edge Device
 The system utilizes a custom-developed camera with an integrated edge device running on a Linux system. This unified design ensures robust and efficient real-time processing without requiring additional external hardware.
