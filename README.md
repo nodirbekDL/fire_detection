@@ -4,8 +4,8 @@
 An advanced fire detection system completed in 2021, designed for both indoor and outdoor environments. The system utilized a specialized camera with an integrated edge device for real-time inference, identifying fire hazards and providing immediate visual alerts to improve safety and response times in various settings.
 
 <figure>
-  <img src="path/to/your/image.jpg" alt="Description of image">
-  <figcaption>Figure 1: Integrated fire detection camera with built-in edge processing and LED alert system</figcaption>
+  <img src="media/collage_fire_det.png" alt="collage_fire_det">
+  <figcaption>Figure 1: Fire Detection System Hardware Components</figcaption>
 </figure>
 
 ## Role
